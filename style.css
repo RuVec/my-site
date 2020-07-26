@@ -204,5 +204,5 @@ nav{
 
 
 main {
-  background-image: url(img/fon3.jpg);
+  background: #ffffff url("img/fon3.jpg") no-repeat top center;
 }

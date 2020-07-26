@@ -1,15 +1,79 @@
 body {
-    margin: 20;
+    background: url("img/h3.jpg");
+    margin: 0;
     min-width: 960px;
     font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
     font-size: 16px;
     line-height: 18px;
-    color: #387eb8;
-    background-color: #20101e;
+    color: #131212;
+    background-color: gainsboro;
     background-image: url ();
     background-repeat: no-repeat;
     background-position: top center;
   }
-  main{
-background-image: url(img/h3.jpg);
+
+  h1 {
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, fantasy;
+font-size: 42px;
+margin-top: 50px;
+margin-bottom: 50px;
+
+
   }
+
+  h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, fantasy;
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+
+  h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, fantasy;
+    font-size: 28px;
+    margin-bottom: 10px;
+
+  }
+
+  p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, fantasy;
+    margin-bottom: 60px;
+  }
+
+  .foto{
+    margin-left: 350px;
+    border-radius: 50%;
+  }
+
+  .skills dt{
+color: floralwhite;
+    margin-left: 500px;
+  }
+  .skills dd {
+    margin: 0;
+    margin-bottom: 5px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #e8e8e8;
+  }
+  
+  .skills-level {
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4470c4;
+  }
+  .skills-level-ok {
+    background-color: #47bb52;
+  }
+.mail {
+    margin-right: 700px;
+}
+
+.phone {
+
+    margin-right: 40px;
+}
