@@ -44,12 +44,11 @@ margin-bottom: 50px;
   }
 
   .foto{
-    margin-left: 350px;
     border-radius: 50%;
   }
 
   .skills dt{
-color: floralwhite;
+   color: floralwhite;
     margin-left: 500px;
   }
   .skills dd {
@@ -77,3 +76,6 @@ color: floralwhite;
 
     margin-right: 40px;
 }
+
+P.fig {
+  text-align: center;
